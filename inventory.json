@@ -1,10 +1,16 @@
 {
   "dealership": "Morrey Mazda Of The Northshore",
-  "generated_at": "2026-10-26T10:14:28",
+  "generated_at": "2026-11-17T13:19:58",
   "vehicle_count": 220,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/5d7d15f3b320.html",
+      "condition": "used",
+      "price": 0.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Mazda2025 CX-70 Plug-In Hybrid GS-L",
       "vin": "JM3KJCHA1S1101265",
@@ -1286,28 +1292,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 GMC Sierra 1500",
-      "vin": "1GTV2TEC5FZ405361",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/7f151e42e9cf.html",
-      "year": 2015,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 15900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2016 Ford F150",
-      "vin": "1FTEX1E8XGKE52526",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/4aefd2f7150f.html",
-      "year": 2016,
-      "make": "Ford",
-      "model": "F150",
-      "condition": "used",
-      "price": 24900.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Audi Q7",
       "vin": "WA1WAAF77JD044292",
       "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/b331b52b8d3a.html",
@@ -1316,6 +1300,17 @@
       "model": "Q7",
       "condition": "used",
       "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Mazda Mazda3",
+      "vin": "JM1BN1L72J1156562",
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/9694fbb2b4f3.html",
+      "year": 2018,
+      "make": "Mazda",
+      "model": "Mazda3",
+      "condition": "used",
+      "price": 16900.0,
       "price_currency": "CAD"
     },
     {
@@ -1349,17 +1344,6 @@
       "model": "Mazda3",
       "condition": "used",
       "price": 22900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Mazda Mazda3 Sport",
-      "vin": "JM1BPALL8M1304662",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/5d7d15f3b320.html",
-      "year": 2021,
-      "make": "Mazda",
-      "model": "Mazda3",
-      "condition": "used",
-      "price": 23900.0,
       "price_currency": "CAD"
     },
     {
@@ -1418,25 +1402,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mazda CX-30",
-      "vin": "3MVDMBDY3PM504050",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/a1200ad4cc7b.html",
+      "name": "2023 Mazda CX-5",
+      "vin": "JM3KFBCM3P0139915",
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/3a62dbbe0b29.html",
       "year": 2023,
       "make": "Mazda",
-      "model": "CX-30",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Mazda CX-5",
+      "vin": "JM3KFBCM1P0111255",
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/ba34f282b367.html",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 29900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Mazda CX-50",
+      "vin": "7MMVABDY9PN118365",
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/77f9c56ac858.html",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-50",
       "condition": "used",
       "price": 33900.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Subaru Crosstrek",
-      "vin": "JF2GTHSC9PH230533",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/6cc277dece1f.html",
+      "name": "2023 Mazda CX-5",
+      "vin": "JM3KFBCM2P0177443",
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/74a4150dc4d2.html",
       "year": 2023,
-      "make": "Subaru",
-      "model": "Crosstrek",
+      "make": "Mazda",
+      "model": "CX-5",
       "condition": "used",
-      "price": 26900.0,
+      "price": 29900.0,
       "price_currency": "CAD"
     },
     {
@@ -1470,17 +1476,6 @@
       "model": "CX-30",
       "condition": "used",
       "price": 28900.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mazda CX-30",
-      "vin": "3MVDMBCM5RM608654",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/045b0b920b7a.html",
-      "year": 2024,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 31900.0,
       "price_currency": "CAD"
     },
     {
@@ -1518,13 +1513,13 @@
     },
     {
       "name": "2025 Mazda Mazda3",
-      "vin": "JM1BPACM9S1763186",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/47752bf24126.html",
+      "vin": "JM1BPABM6S1779332",
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/01d605ce5dc0.html",
       "year": 2025,
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 27900.0,
+      "price": 25900.0,
       "price_currency": "CAD"
     },
     {
