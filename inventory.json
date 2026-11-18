@@ -1,7 +1,7 @@
 {
   "dealership": "Morrey Mazda Of The Northshore",
-  "generated_at": "2026-11-18T03:05:51",
-  "vehicle_count": 221,
+  "generated_at": "2026-11-18T03:24:34",
+  "vehicle_count": 219,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -171,6 +171,14 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/new/569256e9d60d.html",
       "condition": "new",
       "price": 37075.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mazda2026 CX-70 Plug-In Hybrid GS-L SC",
+      "vin": "JM3KJCHF9T1351897",
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/new/84d92c13ee54.html",
+      "condition": "new",
+      "price": 57425.0,
       "price_currency": "CAD"
     },
     {
@@ -686,14 +694,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Mazda2026 CX-70 Mild Hybrid GT",
-      "vin": "JM3KJDHD0T1212407",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/new/6deb3d287c65.html",
-      "condition": "new",
-      "price": 55825.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Mazda2026 CX-5 GT",
       "vin": "JM3KMDHA9T0194377",
       "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/new/aad4889fbe59.html",
@@ -971,14 +971,6 @@
       "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/new/54987d39c56d.html",
       "condition": "new",
       "price": 44775.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Mazda2026 CX-90 Plug-In Hybrid GT",
-      "vin": "JM3KKDHA0T1417695",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/new/ff156151107b.html",
-      "condition": "new",
-      "price": 63025.0,
       "price_currency": "CAD"
     },
     {
@@ -1553,17 +1545,6 @@
       "model": "GX",
       "condition": "new",
       "price": 26825.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Mazda3 Sport GT Turbo",
-      "vin": "JM1BPBMY4T1882966",
-      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/new/6fb606749acb.html",
-      "year": 2026,
-      "make": "Mazda3",
-      "model": "Sport GT Turbo",
-      "condition": "new",
-      "price": 41775.0,
       "price_currency": "CAD"
     },
     {

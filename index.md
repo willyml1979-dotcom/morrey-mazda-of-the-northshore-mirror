@@ -1,6 +1,6 @@
 # Morrey Mazda of the NorthShore
 
- dealership in North Vancouver. AI-readable inventory mirror, about 221 vehicles.
+ dealership in North Vancouver. AI-readable inventory mirror, about 219 vehicles.
 
 - Official website: https://www.morreymazda.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/
