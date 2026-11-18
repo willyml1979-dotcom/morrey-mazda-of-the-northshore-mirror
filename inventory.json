@@ -1,7 +1,7 @@
 {
   "dealership": "Morrey Mazda Of The Northshore",
-  "generated_at": "2026-11-18T03:24:34",
-  "vehicle_count": 219,
+  "generated_at": "2026-11-18T11:44:19",
+  "vehicle_count": 220,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1413,6 +1413,17 @@
       "model": "CX-50",
       "condition": "used",
       "price": 33900.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Mazda CX-5",
+      "vin": "JM3KFBCM2P0177443",
+      "url": "https://willyml1979-dotcom.github.io/morrey-mazda-of-the-northshore-mirror/used/74a4150dc4d2.html",
+      "year": 2023,
+      "make": "Mazda",
+      "model": "CX-5",
+      "condition": "used",
+      "price": 29900.0,
       "price_currency": "CAD"
     },
     {
